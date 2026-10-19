@@ -22,7 +22,7 @@
 
 首先打印出由给定符号组成的最大的沙漏形状，最后在一行中输出剩下没用掉的符号数。
 
-**My answer:**<br>
+### My answer:
 
 ```cpp
 #include <iostream>
